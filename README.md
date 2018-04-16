@@ -1,2 +1,2 @@
 # OASIS
-VR
+This is the dumbest project to ever exist
